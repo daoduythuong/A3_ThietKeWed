@@ -18,12 +18,15 @@ https://daoduythuong.github.io/A3_ThietKeWed/
 ## Cấu trức thư mục
 
 A3_2
+
+```text
 ├── index.html
 ├── README.md
 ├── AI_LOG.md
 ├── assets/
 └── css/
     └── style.css
+```
 
 ## Khai báo AI
 
