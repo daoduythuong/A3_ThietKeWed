@@ -1,17 +1,30 @@
-# Personal Portfolio — FIT4014 A3
+# Portfolio CV cá nhân — Đào Duy Thương
 
-Website portfolio cá nhân dạng static HTML5/CSS3/JavaScript.
+## Sản phẩm này là gì?
 
-## Mở website
-- Mở `index.html` trực tiếp bằng trình duyệt, hoặc chạy Live Server trong VS Code.
-- Đổi tên, nội dung, email và thông tin cá nhân trong `index.html`.
-- CSS nằm ở `css/style.css`, JavaScript menu mobile ở `js/main.js`.
+Website portfolio CV cá nhân giới thiệu bản thân, kỹ năng, dự án học tập, quá trình học tập và thông tin liên hệ của sinh viên ngành Công nghệ Thông tin.
 
-## Deploy GitHub Pages (gợi ý)
-1. Tạo repository GitHub và upload toàn bộ thư mục.
-2. Vào Settings → Pages.
-3. Chọn deploy từ branch `main`, thư mục `/root`.
-4. Lưu lại URL GitHub Pages được cấp.
+## Demo
 
-## Trạng thái
-Website là bản khởi tạo. Hãy kiểm thử thực tế ở màn hình 320px, 768px và 1440px, xác minh link/ email, cập nhật dự án và thông tin cá nhân trước khi nộp.
+https://daoduythuong.github.io/A3_ThietKeWed/
+
+## Tính năng
+
+- Giới thiệu bản thân và các kỹ năng đang học.
+- Hiển thị ba dự án học tập cùng hình minh họa.
+- Trình bày một số học phần và sản phẩm học tập.
+- Có thông tin liên hệ và form lời nhắn với xác thực trường bắt buộc, email, độ dài họ tên và lời nhắn.
+
+## Cấu trức thư mục
+
+A3_2/
+├── index.html
+├── README.md
+├── AI_LOG.md
+├── assets/
+└── css/
+    └── style.css
+
+## Khai báo AI
+
+Xem [docs/AI_LOG.md](docs/AI_LOG.md).
