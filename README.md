@@ -17,7 +17,7 @@ https://daoduythuong.github.io/A3_ThietKeWed/
 
 ## Cấu trức thư mục
 
-A3_2/
+A3_2
 ├── index.html
 ├── README.md
 ├── AI_LOG.md
