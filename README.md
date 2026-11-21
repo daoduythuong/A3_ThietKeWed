@@ -1,4 +1,4 @@
-# Portfolio CV cá nhân — Đào Duy Thương
+# Portfolio CV cá nhân - Đào Duy Thương
 
 ## Sản phẩm này là gì?
 
@@ -15,7 +15,7 @@ https://daoduythuong.github.io/A3_ThietKeWed/
 - Trình bày một số học phần và sản phẩm học tập.
 - Có thông tin liên hệ và form lời nhắn với xác thực trường bắt buộc, email, độ dài họ tên và lời nhắn.
 
-## Cấu trức thư mục
+## Cấu trúc thư mục
 
 A3_2
 
